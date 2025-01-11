@@ -2,7 +2,7 @@
 
 const App = () => {
   return (
-    <div><h1>Próximamente FullMovie</h1></div>
+    <div><h1>Próximamente FullMovies</h1></div>
   )
 }
 
