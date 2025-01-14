@@ -4,4 +4,9 @@ Configuraciones básicas:
 
 - [Pasos para instalar React Testing Library](https://www.robinwieruch.de/vitest-react-testing-library/)
   
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Cómo usar GitHub Actions with Vercel?](https://vercel.com/guides/how-can-i-use-github-actions-with-vercel)
+  
+- [Cómo usar  Vercel API Access Token?](https://vercel.com/guides/how-do-i-use-a-vercel-api-access-token)
+  
+- 
+
