@@ -8,5 +8,5 @@ Configuraciones básicas:
   
 - [Cómo usar  Vercel API Access Token?](https://vercel.com/guides/how-do-i-use-a-vercel-api-access-token)
   
-- 
+- [Guía para configurar Env Variables y Modes](https://vitejs.dev/guide/env-and-mode.html)
 
