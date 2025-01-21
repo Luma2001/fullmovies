@@ -36,6 +36,7 @@ export default [
       ],
       "react/prop-types":"off",
       "no-unused-vars":"warn",
+      "no-debugger":"off"
     },
   },
 ]
